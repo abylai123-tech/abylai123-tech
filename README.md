@@ -16,6 +16,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abylai123-tech&layout=donut" alt="Front-end Languages" />
 </div>
 
+###
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
 <div id="badges" align="center">
   
