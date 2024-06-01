@@ -16,12 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abylai123-tech&layout=donut" alt="Front-end Languages" />
 </div>
 
-###
-<p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
-</p>
-
-
 ###  
 
 <h3 align="left">Технологии:</h3>
