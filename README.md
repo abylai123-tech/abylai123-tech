@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="300" width="600" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-</div>
-
 <div id="header" align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F53F7&width=435&lines=Hi+%F0%9F%91%8B++I'm+Abylaikhan.+Front+end+dev" alt="Typing SVG" />
@@ -44,6 +40,9 @@
 </div>
 
 ###
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <div id="badges" align="center">
   
