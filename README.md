@@ -41,7 +41,7 @@
 
 ###
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 <div id="badges" align="center">
