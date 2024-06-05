@@ -9,14 +9,12 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abylai123- 
-    tech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abylai123-tech&layout=donut" alt="Front-end Languages" />
 </div>
 
 ###  
 
-<h3 align="left">Технологии:</h3>
+<h3 align="left">Technologies:</h3>
 
 ###
 
